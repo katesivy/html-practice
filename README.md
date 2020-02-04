@@ -13,11 +13,14 @@
     <meta property="og:title" content="Metadata; The HTML &lt;head&gt;, on MDN">
 
     <link rel="Shortcut Icon" href="favicon.ico" type="image/x-icon">
+  <link rel="stylesheet" href="my-css-file.css">
   </head>
+  
   <body>
     <h1>Meta examples</h1>
 
     <p>Japanese example: ご飯が熱い。</p>
+  <script src="my-js-file.js"></script>  
   </body>
 </html>
 
